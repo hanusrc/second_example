@@ -1,0 +1,1 @@
+This is a scond project initiated from local repo
